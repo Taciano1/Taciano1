@@ -1,10 +1,10 @@
-# Titulo de demonstração
-## Segundo título
-**Palavra em Negrito** Palavra sem Negrito, 
-_Palavra em Itálico_   Palavra sem Itálico,
-~~Palavra Tachada~~
-~~**Negrito _Itálico_ Negrito**~~
-<sup>Sobrescrito</sup>
+# Título
+## Título2
+##### Título menor
+**Negrito** __Negrito Anderline__,
+*Italico*, ~~Tachado~~,**Negrito *Italico* ~~Tachado~~**, **~~*Rafael*~~**, <sub>Sobrescrito</sub>,
+
+
 - 👋 Oi, Eu sou o Taciano1.
 - 👀 Eu estou interessado em aprender mais sobre programação.
 - 🌱 Estou aprendendo sobre scratch, Java, ou seja, sobre o uso de novos programas que nunca mexi antes.
