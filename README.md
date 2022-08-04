@@ -4,6 +4,16 @@
 **Negrito** __Negrito Anderline__,
 *Italico*, ~~Tachado~~,**Negrito *Italico* ~~Tachado~~**, **~~*Rafael*~~**, <sub>Sobrescrito</sub>,
 
+:smiley: sorriso
+:smile: sorriso olho fechado
+:rofl: Sorriso com choro
+:smiling_face_with_three_hearts: sorriso com corações
+:shit: Merda
+:heart_eyes_cat: gato com corações
+:kiss: beijo
+:100: número 100
+:monkey: macaco
+:chicken: galinha
 
 - 👋 Oi, Eu sou o Taciano1.
 - 👀 Eu estou interessado em aprender mais sobre programação.
