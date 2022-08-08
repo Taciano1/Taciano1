@@ -16,6 +16,16 @@
 :chicken: galinha
 
 A :chicken::boot::egg:
+
+# Notas de rodapé
+A palavra gato[^1] tem vários significados dependendo do seu uso no contexto.
+
+Já a gíria[^2] toda região tem uma.
+
+
+[^1]: *animal* felino
+[^2]: palavra de ~~significado~~ regional
+
 - 👋 Oi, Eu sou o Taciano1.
 - 👀 Eu estou interessado em aprender mais sobre programação.
 - 🌱 Estou aprendendo sobre scratch, Java, ou seja, sobre o uso de novos programas que nunca mexi antes.
