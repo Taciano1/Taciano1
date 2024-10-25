@@ -1,8 +1,8 @@
 # Título
 ## Título2
 ##### Título menor
-**Negrito** __Negrito Anderline__,
-*Italico*, ~~Tachado~~,**Negrito *Italico* ~~Tachado~~**, **~~*Rafael*~~**, <sub>Sobrescrito</sub>,
+**Negrito** ou __Negrito__,
+*Italico*, ~~Tachado~~,***Negrito Italico* ~~Negrito Tachado~~**, **~~*Rafael*~~**, <sub>Sobrescrito</sub>,
 
 :smiley: sorriso
 :smile: sorriso olho fechado
